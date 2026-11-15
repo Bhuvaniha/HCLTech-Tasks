@@ -94,7 +94,6 @@ Run the cells top to bottom. The dataset downloads automatically on first run. A
 ```
 .
 ├── Assignment - 2 (Sentiment Analysis).ipynb   # Main notebook
-├── IMDb Sentimental Analysis.ipynb             # Related IMDb sentiment notebook
 └── README.md
 ```
 
