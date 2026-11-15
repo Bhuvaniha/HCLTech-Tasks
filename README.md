@@ -80,15 +80,6 @@ Per-class performance on the test set:
 
 The **neutral** class is the hardest to classify, while **positive** is detected most reliably. The confusion matrix and model comparison bar chart are generated at the end of the notebook.
 
-## Model Architectures
-
-| Model | Structure |
-|-------|-----------|
-| **NN** | Embedding → Flatten → Dense → Dropout → Dense(softmax) |
-| **RNN** | Embedding (masked) → SimpleRNN → Dropout → Dense(softmax) |
-| **LSTM** | Embedding (masked) → Bidirectional LSTM → Dropout → Dense(softmax) |
-| **GRU** | Embedding (masked) → Bidirectional GRU → Dropout → Dense(softmax) |
-
 ## Notes
 
 - Sequences that vectorize to all-zero rows are filtered out before training the recurrent models.
