@@ -84,7 +84,7 @@ pip install tensorflow datasets scikit-learn pandas numpy matplotlib seaborn jup
 ### Run
 
 ```bash
-jupyter notebook "Assignment - 2 (Sentiment Analysis).ipynb"
+jupyter notebook "Multiclass Sentiment Analysis.ipynb"
 ```
 
 Run the cells top to bottom. The dataset downloads automatically on first run. A GPU is recommended for the recurrent models.
