@@ -93,7 +93,7 @@ Run the cells top to bottom. The dataset downloads automatically on first run. A
 
 ```
 .
-├── Assignment - 2 (Sentiment Analysis).ipynb   # Main notebook
+├── Multiclass Sentiment Analysis   # Main notebook
 └── README.md
 ```
 
